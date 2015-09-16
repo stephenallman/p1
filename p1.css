@@ -1,0 +1,33 @@
+
+body {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+h1.me {
+	color: #242463;
+    text-align: center;
+}
+
+
+h2 {
+	color: #242463;
+}
+
+h3 {
+	color: #242463;
+}
+
+div.date {
+	color : red;
+}
+
+img.me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+h1.course {
+	color: #242463;
+	text-align: center;
+}
+
